@@ -1,5 +1,5 @@
 # Phishing Incident Response Playbook
-Author: Pranjal Bote
+Author: Pranjal Bote.
 
 ## 🎯 Objectives
 - Understand phishing attack stages
